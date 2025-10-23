@@ -1,0 +1,35 @@
+{
+    "id": "e0c0ee8b-17b4-4711-a147-03936c3a4a0e",
+    "status": "Succeeded",
+    "result": {
+        "analyzerId": "pdf-to-text-analyzer",
+        "apiVersion": "2025-05-01-preview",
+        "createdAt": "2025-10-23T21:34:57Z",
+        "warnings": [],
+        "contents": [
+            {
+                "markdown": "file-repo/resume.pdf at beb802fe2d9faee232d2ac336311380bf391b6cb · edmondcpower/file-repo · GitHub\n\nSkip to content \n\n## Navigation Menu\n\nToggle navigation \n\n Sign in  \n\nAppearance settings \n\n Platform  \n\n GitHub Copilot \n\n Write better code with AI \n\n GitHub Spark  New  \n\n Build and deploy intelligent apps \n\n GitHub Models  New  \n\n Manage and compare prompts \n\n GitHub Advanced Security \n\n Find and fix vulnerabilities \n\n Actions \n\n Automate any workflow \n\n Codespaces \n\n Instant dev environments \n\n Issues \n\n Plan and track work \n\n Code Review \n\n Manage code changes \n\n Discussions \n\n Collaborate outside of code \n\n Code Search \n\n Find more, search less \n\nExplore \n\n Why GitHub  \n\n Documentation  \n\n GitHub Skills  \n\n Blog  \n\nIntegrations \n\n GitHub Marketplace  \n\n MCP Registry  \n\n View all features  \n\n Solutions  \n\nBy company size \n\n Enterprises  \n\n Small and medium teams  \n\n Startups  \n\n Nonprofits  \n\nBy use case \n\n App Modernization  \n\n DevSecOps  \n\n DevOps  \n\n CI/CD  \n\n View all use cases  \n\nBy industry \n\n Healthcare  \n\n Financial services  \n\n Manufacturing  \n\n Government  \n\n View all industries  \n\n View all solutions  \n\n Resources  \n\nTopics \n\n AI  \n\n DevOps  \n\n Security  \n\n Software Development  \n\n View all  \n\nExplore \n\n Learning Pathways  \n\n Events & Webinars  \n\n Ebooks & Whitepapers  \n\n Customer Stories  \n\n Partners  \n\n Executive Insights  \n\n Open Source  \n\n GitHub Sponsors \n\n Fund open source developers \n\n The ReadME Project \n\n GitHub community articles \n\nRepositories \n\n Topics  \n\n Trending  \n\n Collections  \n\n Enterprise  \n\n Enterprise platform \n\n AI-powered developer platform \n\nAvailable add-ons \n\n GitHub Advanced Security \n\n Enterprise-grade security features \n\n Copilot for business \n\n Enterprise-grade AI features \n\n Premium Support \n\n Enterprise-grade 24/7 support \n\nPricing \n\nSearch or jump to... \n\n# Search code, repositories, users, issues, pull requests...\n\n Search  \n\nClear \n\nSearch syntax tips \n\n#  Provide feedback \n\nWe read every piece of feedback, and take your input very seriously.\n\n☐Include my email address so I can be contacted \n\n Cancel   Submit feedback  \n\n#  Saved searches \n\n## Use saved searches to filter your results more quickly\n\nName \n\nQuery \n\n To see all available qualifiers, see our documentation. \n\n Cancel   Create saved search  \n\n Sign in  \n\n Sign up  \n\nAppearance settings \n\nResetting focus \n\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert \n\n{{ message }}\n\n edmondcpower  / file-repo Public \n\nNotifications  You must be signed in to change notification settings \n\nFork 0 \n\n Star  0 \n\nCode \n\nIssues 0 \n\nPull requests 0 \n\nActions \n\nProjects 0 \n\nSecurity \n\n###  Uh oh! \n\nThere was an error while loading. Please reload this page.\n\nInsights \n\n You can’t perform that action at this time. \n",
+                "fields": {
+                    "summary": {
+                        "type": "string",
+                        "valueString": "The document is a GitHub repository page for 'file-repo' by user 'edmondcpower'. It includes navigation options, features of GitHub, and various sections like code, issues, pull requests, actions, projects, and security. The page also mentions GitHub's advanced security, Copilot, and other enterprise features. There is an error message indicating a loading issue."
+                    },
+                    "wordCount": {
+                        "type": "string",
+                        "valueString": "104"
+                    }
+                },
+                "kind": "document",
+                "startPageNumber": 1,
+                "endPageNumber": 1
+            }
+        ]
+    },
+    "usage": {
+        "tokens": {
+            "contextualization": 0.001,
+            "input": 1798,
+            "output": 102
+        }
+    }
+}
