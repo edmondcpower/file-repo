@@ -1,49 +1,1974 @@
 [
     {
+        "company": "CPower",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.2,
+                "positivePct": 78
+            },
+            "workLifeBalance": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "management": {
+                "avgRating": 4.0,
+                "positivePct": 73
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 62
+            },
+            "growthOpportunities": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "overallSentimentScore": 0.74
+        },
+        "employeesSample": [
+            {
+                "id": "CP-E001",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Collaborative team, reasonable hours.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CP-E014",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Leadership is transparent, pay could improve.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CP-E032",
+                "department": "Sales",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Fast pace, some pressure in quarter close.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CP-E045",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 5,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Healthy culture focus.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CP-E057",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Shifts can be tiring.",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
         "company": "Blue Penguin Designs",
         "surveyYear": 2025,
         "metrics": {
-            "workCulture": { "avgRating": 4.5, "positivePct": 85 },
-            "workLifeBalance": { "avgRating": 4.3, "positivePct": 80 },
-            "management": { "avgRating": 4.1, "positivePct": 75 },
-            "compensation": { "avgRating": 3.7, "positivePct": 64 },
-            "growthOpportunities": { "avgRating": 4.0, "positivePct": 70 },
+            "workCulture": {
+                "avgRating": 4.5,
+                "positivePct": 85
+            },
+            "workLifeBalance": {
+                "avgRating": 4.3,
+                "positivePct": 80
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 75
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 64
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 70
+            },
             "overallSentimentScore": 0.79
         },
         "employeesSample": [
             {
                 "id": "BPD-E003",
                 "department": "Design",
-                "ratings": { "workCulture": 5, "workLifeBalance": 5, "management": 4, "compensation": 4, "growthOpportunities": 4 },
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 5,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
                 "comment": "Creative freedom and flexible schedule.",
                 "sentiment": "positive"
             },
             {
                 "id": "BPD-E011",
                 "department": "Engineering",
-                "ratings": { "workCulture": 5, "workLifeBalance": 4, "management": 4, "compensation": 3, "growthOpportunities": 4 },
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
                 "comment": "Great collaboration, salary moderate.",
                 "sentiment": "positive"
             },
             {
                 "id": "BPD-E024",
                 "department": "Marketing",
-                "ratings": { "workCulture": 4, "workLifeBalance": 4, "management": 4, "compensation": 3, "growthOpportunities": 4 },
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
                 "comment": "Supportive peers, room to grow.",
                 "sentiment": "positive"
             },
             {
                 "id": "BPD-E039",
                 "department": "QA",
-                "ratings": { "workCulture": 4, "workLifeBalance": 4, "management": 4, "compensation": 3, "growthOpportunities": 3 },
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
                 "comment": "Processes improving.",
                 "sentiment": "neutral"
             },
             {
                 "id": "BPD-E052",
                 "department": "Operations",
-                "ratings": { "workCulture": 5, "workLifeBalance": 4, "management": 5, "compensation": 4, "growthOpportunities": 5 },
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
                 "comment": "Leadership invests in training.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Botle Bob Advertising",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "workLifeBalance": {
+                "avgRating": 3.2,
+                "positivePct": 52
+            },
+            "management": {
+                "avgRating": 3.4,
+                "positivePct": 55
+            },
+            "compensation": {
+                "avgRating": 3.3,
+                "positivePct": 54
+            },
+            "growthOpportunities": {
+                "avgRating": 3.5,
+                "positivePct": 57
+            },
+            "overallSentimentScore": 0.58
+        },
+        "employeesSample": [
+            {
+                "id": "BBA-E006",
+                "department": "Creative",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "High energy, deadlines tight.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "BBA-E017",
+                "department": "Accounts",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Standard agency pressure.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "BBA-E028",
+                "department": "Strategy",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 2,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Learning a lot, long evenings.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "BBA-E041",
+                "department": "Media Buying",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Pace is okay, could use clearer direction.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "BBA-E055",
+                "department": "Analytics",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Supportive manager, manageable workload.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Aurora Quantum Labs",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.3,
+                "positivePct": 80
+            },
+            "workLifeBalance": {
+                "avgRating": 4.0,
+                "positivePct": 74
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 76
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 64
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 71
+            },
+            "overallSentimentScore": 0.77
+        },
+        "employeesSample": [
+            {
+                "id": "AQL-E001",
+                "department": "Research",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Innovative environment.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "AQL-E009",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Cutting-edge projects, pay okay.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "AQL-E014",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Strong leadership focus.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "AQL-E022",
+                "department": "Operations",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Processes still maturing.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "AQL-E031",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Helpful peers.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Cedar Grove Analytics",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.1,
+                "positivePct": 75
+            },
+            "workLifeBalance": {
+                "avgRating": 3.8,
+                "positivePct": 68
+            },
+            "management": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 62
+            },
+            "growthOpportunities": {
+                "avgRating": 3.9,
+                "positivePct": 69
+            },
+            "overallSentimentScore": 0.72
+        },
+        "employeesSample": [
+            {
+                "id": "CGA-E005",
+                "department": "Data Science",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Challenging datasets.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CGA-E012",
+                "department": "Analytics",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Learning curve steep.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CGA-E019",
+                "department": "Sales",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Targets push pace.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "CGA-E027",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Stable tools.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CGA-E034",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Focus on development.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Nimbus Cloudworks",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.4,
+                "positivePct": 82
+            },
+            "workLifeBalance": {
+                "avgRating": 4.1,
+                "positivePct": 76
+            },
+            "management": {
+                "avgRating": 4.2,
+                "positivePct": 78
+            },
+            "compensation": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "growthOpportunities": {
+                "avgRating": 4.1,
+                "positivePct": 73
+            },
+            "overallSentimentScore": 0.78
+        },
+        "employeesSample": [
+            {
+                "id": "NCW-E003",
+                "department": "Infrastructure",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Scalable challenges.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "NCW-E015",
+                "department": "DevOps",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Automation focus.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "NCW-E021",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "On-call shifts rotate.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "NCW-E028",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Clear roadmap.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "NCW-E036",
+                "department": "Security",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Proactive posture.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Silver Finch Robotics",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "workLifeBalance": {
+                "avgRating": 3.6,
+                "positivePct": 63
+            },
+            "management": {
+                "avgRating": 3.8,
+                "positivePct": 67
+            },
+            "compensation": {
+                "avgRating": 3.5,
+                "positivePct": 59
+            },
+            "growthOpportunities": {
+                "avgRating": 3.7,
+                "positivePct": 64
+            },
+            "overallSentimentScore": 0.67
+        },
+        "employeesSample": [
+            {
+                "id": "SFR-E004",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Interesting prototypes.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "SFR-E011",
+                "department": "R&D",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Experimentation encouraged.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "SFR-E019",
+                "department": "Operations",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Schedule tight.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "SFR-E026",
+                "department": "QA",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Testing cycles long.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "SFR-E033",
+                "department": "Design",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Creative robotics concepts.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Horizon Leaf BioTech",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.2,
+                "positivePct": 78
+            },
+            "workLifeBalance": {
+                "avgRating": 3.7,
+                "positivePct": 65
+            },
+            "management": {
+                "avgRating": 4.0,
+                "positivePct": 73
+            },
+            "compensation": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "growthOpportunities": {
+                "avgRating": 4.1,
+                "positivePct": 72
+            },
+            "overallSentimentScore": 0.74
+        },
+        "employeesSample": [
+            {
+                "id": "HLB-E002",
+                "department": "Lab",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Research autonomy.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "HLB-E010",
+                "department": "Regulatory",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Documentation heavy.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "HLB-E018",
+                "department": "Clinical",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Trial pace demanding.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "HLB-E025",
+                "department": "Data",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Solid pipelines.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "HLB-E032",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Supportive programs.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Maple Harbor Logistics",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.8,
+                "positivePct": 65
+            },
+            "workLifeBalance": {
+                "avgRating": 3.5,
+                "positivePct": 58
+            },
+            "management": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "compensation": {
+                "avgRating": 3.4,
+                "positivePct": 55
+            },
+            "growthOpportunities": {
+                "avgRating": 3.7,
+                "positivePct": 62
+            },
+            "overallSentimentScore": 0.63
+        },
+        "employeesSample": [
+            {
+                "id": "MHL-E006",
+                "department": "Fleet",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Routes manageable.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "MHL-E013",
+                "department": "Warehouse",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Shift rotations constant.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "MHL-E020",
+                "department": "Planning",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Optimization focus.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "MHL-E027",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Volume spikes tough.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "MHL-E035",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Added training paths.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Olive Axis Consulting",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.0,
+                "positivePct": 73
+            },
+            "workLifeBalance": {
+                "avgRating": 3.6,
+                "positivePct": 61
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 75
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 63
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 71
+            },
+            "overallSentimentScore": 0.73
+        },
+        "employeesSample": [
+            {
+                "id": "OAC-E003",
+                "department": "Advisory",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Engaging client work.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "OAC-E010",
+                "department": "Strategy",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 5,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Strong mentorship.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "OAC-E017",
+                "department": "Operations",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Travel weeks taxing.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "OAC-E024",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Improving policies.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "OAC-E031",
+                "department": "Marketing",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Collaborative team.",
+                "sentiment": "mixed"
+            }
+        ]
+    },
+    {
+        "company": "Crimson Tide Security",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.7,
+                "positivePct": 63
+            },
+            "workLifeBalance": {
+                "avgRating": 3.4,
+                "positivePct": 55
+            },
+            "management": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "growthOpportunities": {
+                "avgRating": 3.9,
+                "positivePct": 68
+            },
+            "overallSentimentScore": 0.65
+        },
+        "employeesSample": [
+            {
+                "id": "CTS-E004",
+                "department": "SOC",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Alerts volume high.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CTS-E011",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Automation helps.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CTS-E018",
+                "department": "Compliance",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Audit cycles routine.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "CTS-E025",
+                "department": "Sales",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Competitive landscape.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CTS-E032",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Clear release cadence.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Granite Peak Software",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.3,
+                "positivePct": 81
+            },
+            "workLifeBalance": {
+                "avgRating": 4.0,
+                "positivePct": 74
+            },
+            "management": {
+                "avgRating": 4.2,
+                "positivePct": 79
+            },
+            "compensation": {
+                "avgRating": 3.9,
+                "positivePct": 68
+            },
+            "growthOpportunities": {
+                "avgRating": 4.1,
+                "positivePct": 72
+            },
+            "overallSentimentScore": 0.78
+        },
+        "employeesSample": [
+            {
+                "id": "GPS-E003",
+                "department": "Platform",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Stable architecture focus.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "GPS-E009",
+                "department": "Frontend",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "UI improvements constant.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "GPS-E016",
+                "department": "Backend",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Performance tuning regular.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "GPS-E023",
+                "department": "QA",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Automation coverage strong.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "GPS-E031",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 3
+                },
+                "comment": "Tickets manageable.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Coral Reef Retail",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.9,
+                "positivePct": 69
+            },
+            "workLifeBalance": {
+                "avgRating": 3.5,
+                "positivePct": 57
+            },
+            "management": {
+                "avgRating": 3.7,
+                "positivePct": 61
+            },
+            "compensation": {
+                "avgRating": 3.4,
+                "positivePct": 54
+            },
+            "growthOpportunities": {
+                "avgRating": 3.6,
+                "positivePct": 58
+            },
+            "overallSentimentScore": 0.64
+        },
+        "employeesSample": [
+            {
+                "id": "CRR-E007",
+                "department": "Store Ops",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Seasonal rush intense.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CRR-E014",
+                "department": "Merchandising",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Creative displays.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CRR-E021",
+                "department": "E-Commerce",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Omni-channel focus.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CRR-E028",
+                "department": "Logistics",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Fulfillment pressure.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "CRR-E035",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Added recognition program.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Ember Trail Energy",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.0,
+                "positivePct": 74
+            },
+            "workLifeBalance": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "management": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 63
+            },
+            "growthOpportunities": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "overallSentimentScore": 0.70
+        },
+        "employeesSample": [
+            {
+                "id": "ETE-E005",
+                "department": "Field Ops",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Site travel frequent.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "ETE-E012",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Renewables focus.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "ETE-E019",
+                "department": "Analytics",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Forecasting models evolving.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "ETE-E026",
+                "department": "Safety",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Strong safety culture.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "ETE-E033",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Policy updates steady.",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "company": "Indigo Lantern Education",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.5,
+                "positivePct": 86
+            },
+            "workLifeBalance": {
+                "avgRating": 4.2,
+                "positivePct": 78
+            },
+            "management": {
+                "avgRating": 4.3,
+                "positivePct": 80
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 61
+            },
+            "growthOpportunities": {
+                "avgRating": 4.2,
+                "positivePct": 75
+            },
+            "overallSentimentScore": 0.80
+        },
+        "employeesSample": [
+            {
+                "id": "ILE-E001",
+                "department": "Curriculum",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 5,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Empowered to innovate.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "ILE-E008",
+                "department": "Instructional Design",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Creative collaboration.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "ILE-E015",
+                "department": "Tech",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Stable LMS, salary moderate.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "ILE-E022",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Term start busy.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "ILE-E029",
+                "department": "Marketing",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Mission-driven messaging.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Vector Pulse FinTech",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.1,
+                "positivePct": 76
+            },
+            "workLifeBalance": {
+                "avgRating": 3.7,
+                "positivePct": 63
+            },
+            "management": {
+                "avgRating": 4.0,
+                "positivePct": 72
+            },
+            "compensation": {
+                "avgRating": 3.9,
+                "positivePct": 68
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 71
+            },
+            "overallSentimentScore": 0.74
+        },
+        "employeesSample": [
+            {
+                "id": "VPF-E002",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Real-time systems exciting.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "VPF-E010",
+                "department": "Risk",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Dynamic regulations.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "VPF-E018",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Peak hours intense.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "VPF-E026",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Clear feature prioritization.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "VPF-E034",
+                "department": "Data",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Robust analytics stack.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Open Meadow Farming",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.8,
+                "positivePct": 64
+            },
+            "workLifeBalance": {
+                "avgRating": 3.5,
+                "positivePct": 57
+            },
+            "management": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "compensation": {
+                "avgRating": 3.3,
+                "positivePct": 52
+            },
+            "growthOpportunities": {
+                "avgRating": 3.5,
+                "positivePct": 56
+            },
+            "overallSentimentScore": 0.60
+        },
+        "employeesSample": [
+            {
+                "id": "OMF-E004",
+                "department": "Field",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Season drives hours.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "OMF-E011",
+                "department": "Logistics",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Demand variability.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "OMF-E018",
+                "department": "Sustainability",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Eco initiatives growing.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "OMF-E025",
+                "department": "Sales",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Market shifts quick.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "OMF-E032",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Retention improving.",
+                "sentiment": "mixed"
+            }
+        ]
+    },
+    {
+        "company": "Stellar Drift Gaming",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.4,
+                "positivePct": 83
+            },
+            "workLifeBalance": {
+                "avgRating": 3.8,
+                "positivePct": 67
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 76
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 63
+            },
+            "growthOpportunities": {
+                "avgRating": 4.2,
+                "positivePct": 75
+            },
+            "overallSentimentScore": 0.76
+        },
+        "employeesSample": [
+            {
+                "id": "SDG-E001",
+                "department": "Game Design",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Creative freedom high.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "SDG-E009",
+                "department": "Art",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Stylized direction fun.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "SDG-E016",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Build cycles tight.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "SDG-E023",
+                "department": "QA",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Bug triage intense near launch.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "SDG-E030",
+                "department": "Community",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Player feedback valued.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Alloy Bridge Manufacturing",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.7,
+                "positivePct": 62
+            },
+            "workLifeBalance": {
+                "avgRating": 3.4,
+                "positivePct": 55
+            },
+            "management": {
+                "avgRating": 3.6,
+                "positivePct": 59
+            },
+            "compensation": {
+                "avgRating": 3.5,
+                "positivePct": 57
+            },
+            "growthOpportunities": {
+                "avgRating": 3.6,
+                "positivePct": 58
+            },
+            "overallSentimentScore": 0.61
+        },
+        "employeesSample": [
+            {
+                "id": "ABM-E006",
+                "department": "Assembly",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Shift rotation standard.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "ABM-E013",
+                "department": "Quality",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Inspection pace steady.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "ABM-E020",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Continuous improvement focus.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "ABM-E027",
+                "department": "Maintenance",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Reactive repairs sometimes.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "ABM-E034",
+                "department": "Safety",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Strong safety checks.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Lunar Echo Media",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.2,
+                "positivePct": 79
+            },
+            "workLifeBalance": {
+                "avgRating": 3.9,
+                "positivePct": 69
+            },
+            "management": {
+                "avgRating": 4.0,
+                "positivePct": 73
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 61
+            },
+            "growthOpportunities": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "overallSentimentScore": 0.73
+        },
+        "employeesSample": [
+            {
+                "id": "LEM-E004",
+                "department": "Production",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Creative shoots varied.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "LEM-E011",
+                "department": "Editing",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Deadlines tight occasionally.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "LEM-E018",
+                "department": "Marketing",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Campaign collaboration good.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "LEM-E025",
+                "department": "Design",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Clear art direction.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "LEM-E032",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 3
+                },
+                "comment": "Culture initiatives stable.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Sparrow Nest Health",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.3,
+                "positivePct": 80
+            },
+            "workLifeBalance": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 77
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 62
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 72
+            },
+            "overallSentimentScore": 0.75
+        },
+        "employeesSample": [
+            {
+                "id": "SNH-E002",
+                "department": "Care Delivery",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Patient-first mindset.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "SNH-E009",
+                "department": "Nursing",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Shifts manageable mostly.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "SNH-E016",
+                "department": "Admin",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Processes streamlined.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "SNH-E023",
+                "department": "IT",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Stable EMR tools.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "SNH-E030",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Retention programs effective.",
                 "sentiment": "positive"
             }
         ]
