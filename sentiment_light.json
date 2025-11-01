@@ -1,0 +1,284 @@
+[
+    {
+        "company": "CPower",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.2,
+                "positivePct": 78
+            },
+            "workLifeBalance": {
+                "avgRating": 3.9,
+                "positivePct": 70
+            },
+            "management": {
+                "avgRating": 4.0,
+                "positivePct": 73
+            },
+            "compensation": {
+                "avgRating": 3.6,
+                "positivePct": 62
+            },
+            "growthOpportunities": {
+                "avgRating": 3.8,
+                "positivePct": 66
+            },
+            "overallSentimentScore": 0.74
+        },
+        "employeesSample": [
+            {
+                "id": "CP-E001",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Collaborative team, reasonable hours.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CP-E014",
+                "department": "Product",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Leadership is transparent, pay could improve.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CP-E032",
+                "department": "Sales",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Fast pace, some pressure in quarter close.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "CP-E045",
+                "department": "HR",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 5,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Healthy culture focus.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "CP-E057",
+                "department": "Support",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Shifts can be tiring.",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "company": "Blue Penguin Designs",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 4.5,
+                "positivePct": 85
+            },
+            "workLifeBalance": {
+                "avgRating": 4.3,
+                "positivePct": 80
+            },
+            "management": {
+                "avgRating": 4.1,
+                "positivePct": 75
+            },
+            "compensation": {
+                "avgRating": 3.7,
+                "positivePct": 64
+            },
+            "growthOpportunities": {
+                "avgRating": 4.0,
+                "positivePct": 70
+            },
+            "overallSentimentScore": 0.79
+        },
+        "employeesSample": [
+            {
+                "id": "BPD-E003",
+                "department": "Design",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 5,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Creative freedom and flexible schedule.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "BPD-E011",
+                "department": "Engineering",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Great collaboration, salary moderate.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "BPD-E024",
+                "department": "Marketing",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Supportive peers, room to grow.",
+                "sentiment": "positive"
+            },
+            {
+                "id": "BPD-E039",
+                "department": "QA",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 4,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Processes improving.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "BPD-E052",
+                "department": "Operations",
+                "ratings": {
+                    "workCulture": 5,
+                    "workLifeBalance": 4,
+                    "management": 5,
+                    "compensation": 4,
+                    "growthOpportunities": 5
+                },
+                "comment": "Leadership invests in training.",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "company": "Botle Bob Advertising",
+        "surveyYear": 2025,
+        "metrics": {
+            "workCulture": {
+                "avgRating": 3.6,
+                "positivePct": 60
+            },
+            "workLifeBalance": {
+                "avgRating": 3.2,
+                "positivePct": 52
+            },
+            "management": {
+                "avgRating": 3.4,
+                "positivePct": 55
+            },
+            "compensation": {
+                "avgRating": 3.3,
+                "positivePct": 54
+            },
+            "growthOpportunities": {
+                "avgRating": 3.5,
+                "positivePct": 57
+            },
+            "overallSentimentScore": 0.58
+        },
+        "employeesSample": [
+            {
+                "id": "BBA-E006",
+                "department": "Creative",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "High energy, deadlines tight.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "BBA-E017",
+                "department": "Accounts",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Standard agency pressure.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "BBA-E028",
+                "department": "Strategy",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 2,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 4
+                },
+                "comment": "Learning a lot, long evenings.",
+                "sentiment": "mixed"
+            },
+            {
+                "id": "BBA-E041",
+                "department": "Media Buying",
+                "ratings": {
+                    "workCulture": 3,
+                    "workLifeBalance": 3,
+                    "management": 3,
+                    "compensation": 3,
+                    "growthOpportunities": 3
+                },
+                "comment": "Pace is okay, could use clearer direction.",
+                "sentiment": "neutral"
+            },
+            {
+                "id": "BBA-E055",
+                "department": "Analytics",
+                "ratings": {
+                    "workCulture": 4,
+                    "workLifeBalance": 3,
+                    "management": 4,
+                    "compensation": 4,
+                    "growthOpportunities": 4
+                },
+                "comment": "Supportive manager, manageable workload.",
+                "sentiment": "positive"
+            }
+        ]
+    }
+]
