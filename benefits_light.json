@@ -1,0 +1,38 @@
+[
+    {
+        "company": "CPower",
+        "benefits": [
+            "Mental Health Support",
+            "Home Office Equipment Budget",
+            "Annual Performance Bonus",
+            "Life Insurance",
+            "Sabbatical Program",
+            "Unlimited Learning Credits",
+            "Carbon Offset Program"
+        ]
+    },
+    {
+        "company": "Blue Penguin Designs",
+        "benefits": [
+            "Health Insurance",
+            "Vision Plan",
+            "Remote Work Stipend",
+            "Profit Sharing",
+            "Flexible PTO",
+            "Education Reimbursement",
+            "Pet Friendly Office"
+        ]
+    },
+    {
+        "company": "Botle Bob Advertising",
+        "benefits": [
+            "Dental Insurance",
+            "401k Match",
+            "Stock Options",
+            "Gym Membership",
+            "Paid Parental Leave",
+            "Volunteer Time Off",
+            "Commuter Benefits"
+        ]
+    }
+]
