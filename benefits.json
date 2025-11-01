@@ -34,5 +34,221 @@
             "Volunteer Time Off",
             "Commuter Benefits"
         ]
+    },
+    {
+        "company": "Aurora Quantum Labs",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Stock Options",
+            "Flexible PTO",
+            "Conference Travel Budget",
+            "Research Sabbaticals",
+            "Professional Certification Support"
+        ]
+    },
+    {
+        "company": "Cedar Grove Analytics",
+        "benefits": [
+            "Health Insurance",
+            "Vision Plan",
+            "Remote Work Stipend",
+            "Flexible PTO",
+            "Data Conference Allowance",
+            "Education Reimbursement",
+            "Wellness Program"
+        ]
+    },
+    {
+        "company": "Nimbus Cloudworks",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Stock Options",
+            "Flexible PTO",
+            "Home Office Equipment Budget",
+            "On-Call Rotation Stipend",
+            "Learning Credits"
+        ]
+    },
+    {
+        "company": "Silver Finch Robotics",
+        "benefits": [
+            "Health Insurance",
+            "Dental Insurance",
+            "Prototype Lab Access",
+            "Flexible PTO",
+            "Education Reimbursement",
+            "Equity Grants",
+            "Wellness Program"
+        ]
+    },
+    {
+        "company": "Horizon Leaf BioTech",
+        "benefits": [
+            "Health Insurance",
+            "Life Insurance",
+            "Flexible PTO",
+            "Lab Equipment Stipend",
+            "Education Reimbursement",
+            "Mental Health Support",
+            "Stock Options"
+        ]
+    },
+    {
+        "company": "Maple Harbor Logistics",
+        "benefits": [
+            "Health Insurance",
+            "Dental Insurance",
+            "401k Match",
+            "Shift Differential Pay",
+            "Safety Bonus Program",
+            "Flexible PTO",
+            "Tuition Assistance"
+        ]
+    },
+    {
+        "company": "Olive Axis Consulting",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Performance Bonus",
+            "Flexible PTO",
+            "Certification Reimbursement",
+            "Travel Per Diem",
+            "Mentorship Program"
+        ]
+    },
+    {
+        "company": "Crimson Tide Security",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "On-Call Pay",
+            "Flexible PTO",
+            "Certification Exam Budget",
+            "Home Lab Equipment Stipend",
+            "Mental Health Support"
+        ]
+    },
+    {
+        "company": "Granite Peak Software",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Stock Options",
+            "Flexible PTO",
+            "Remote Work Stipend",
+            "Conference Travel Budget",
+            "Education Reimbursement"
+        ]
+    },
+    {
+        "company": "Coral Reef Retail",
+        "benefits": [
+            "Health Insurance",
+            "Employee Discount",
+            "Flexible Scheduling",
+            "401k Match",
+            "Tuition Assistance",
+            "Wellness Program",
+            "Performance Bonus"
+        ]
+    },
+    {
+        "company": "Ember Trail Energy",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Field Safety Bonus",
+            "Flexible PTO",
+            "Education Reimbursement",
+            "Stock Purchase Plan",
+            "Mental Health Support"
+        ]
+    },
+    {
+        "company": "Indigo Lantern Education",
+        "benefits": [
+            "Health Insurance",
+            "Retirement Plan",
+            "Flexible PTO",
+            "Curriculum Innovation Grants",
+            "Tuition Waiver",
+            "Professional Development Stipend",
+            "Mental Health Support"
+        ]
+    },
+    {
+        "company": "Vector Pulse FinTech",
+        "benefits": [
+            "Health Insurance",
+            "401k Match",
+            "Stock Options",
+            "Flexible PTO",
+            "Certification Reimbursement",
+            "Home Office Equipment Budget",
+            "Learning Credits"
+        ]
+    },
+    {
+        "company": "Open Meadow Farming",
+        "benefits": [
+            "Health Insurance",
+            "Seasonal Bonus",
+            "401k Match",
+            "Flexible PTO",
+            "Safety Gear Allowance",
+            "Training Program",
+            "Wellness Program"
+        ]
+    },
+    {
+        "company": "Stellar Drift Gaming",
+        "benefits": [
+            "Health Insurance",
+            "Stock Options",
+            "Flexible PTO",
+            "Creative Software License Budget",
+            "Conference Travel Budget",
+            "Education Reimbursement",
+            "Wellness Program"
+        ]
+    },
+    {
+        "company": "Alloy Bridge Manufacturing",
+        "benefits": [
+            "Health Insurance",
+            "Dental Insurance",
+            "401k Match",
+            "Safety Bonus Program",
+            "Flexible PTO",
+            "Tuition Assistance",
+            "Tool Allowance"
+        ]
+    },
+    {
+        "company": "Lunar Echo Media",
+        "benefits": [
+            "Health Insurance",
+            "Flexible PTO",
+            "Equipment Budget",
+            "Creative Sabbatical Program",
+            "Conference Travel Budget",
+            "Education Reimbursement",
+            "Mental Health Support"
+        ]
+    },
+    {
+        "company": "Sparrow Nest Health",
+        "benefits": [
+            "Health Insurance",
+            "Dental Insurance",
+            "401k Match",
+            "Continuing Education Credits",
+            "Flexible PTO",
+            "Mental Health Support",
+            "Wellness Program"
+        ]
     }
 ]
